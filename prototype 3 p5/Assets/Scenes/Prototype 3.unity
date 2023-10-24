@@ -408,8 +408,8 @@ MonoBehaviour:
   GameOver: 0
   ExplosionParticle: {fileID: 1723260904}
   DirtParticle: {fileID: 2002286275}
-  JumpSound: {fileID: 0}
-  CrashSound: {fileID: 0}
+  JumpSound: {fileID: 8300000, guid: 113ee460fadc340e4957a7404a9fbb27, type: 3}
+  CrashSound: {fileID: 8300000, guid: e7ee25a47d63b46cdaf65480d62b405c, type: 3}
 --- !u!4 &480286916 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400046, guid: 7b6675de545141649953fd8adec4561b, type: 3}
